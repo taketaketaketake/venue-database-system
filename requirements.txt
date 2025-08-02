@@ -1,0 +1,8 @@
+requests
+scrapy
+selenium
+python-dotenv
+thefuzz
+click
+Flask
+Flask-Cors
